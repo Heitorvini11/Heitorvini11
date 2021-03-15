@@ -6,6 +6,7 @@
 
 <code><img height="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png"></code>
 <code><img height="40" src="https://terminalroot.com.br/assets/img/css/css.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
 
 <!--
 **Heitorvini11/Heitorvini11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

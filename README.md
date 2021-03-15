@@ -2,6 +2,11 @@
 
 ## Meu nome é Heitor, seja bem vindo ao meu GitHub Profile! 😄
 
+### Languages and Tools:
+
+<code><img height="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png"></code>
+<code><img height="40" src="https://terminalroot.com.br/assets/img/css/css.png"></code>
+
 <!--
 **Heitorvini11/Heitorvini11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
